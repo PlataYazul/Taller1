@@ -1,7 +1,13 @@
+[![Captura-de-pantalla-200.png](https://i.postimg.cc/9My0hykb/Captura-de-pantalla-200.png)](https://postimg.cc/8JPNdfNf)
+
 # Taller1
 
 Taller_1
 #Punto 1: Quiz Python Beginner
+
+
+[![Captura-de-pantalla-199.png](https://i.postimg.cc/PqWnfKtC/Captura-de-pantalla-199.png)](https://postimg.cc/cKLbXRtW)
+
 
 Captura.png
 
